@@ -1,0 +1,64 @@
+#headline{
+text-align: center;
+
+}
+.color-container{
+    border:1px solid black;
+    width: 100%;
+    height: 300px;
+    text-align: center;
+    position: relative;
+}
+
+
+.gray {
+    background-color: #ABABAA;
+    border: 3px dotted black; 
+
+}
+
+
+.beige{
+    background-color: #CDBDAB;
+    border: 3px dotted black; 
+
+}
+
+.color-panel {
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+
+}
+
+.font-container{
+    border:1px solid black; 
+    margin-top: 50px;
+    position: relative;
+    text-align: center;
+
+}
+.font-label{
+   font-weight: bold; 
+   text-decoration: underline; 
+   font-size: large;
+}
+.font-panel{
+    display: inline-block; 
+}
+
+.bold {
+  font-weight: bold; 
+}
+.italic{
+    font-style: italic; 
+}
+.source-code-pro{
+    font-family: 'Source Code Pro', monospace;
+}
+.nunito-sans{
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+
